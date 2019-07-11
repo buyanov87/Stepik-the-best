@@ -1,3 +1,2 @@
 # stepik
-stepik - auto tests course
-Шаг за шагом к новым знаниям
+stepik - welcome to my automatization course https://stepik.org/course/575
